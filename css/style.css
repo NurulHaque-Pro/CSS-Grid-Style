@@ -20,7 +20,7 @@
     background: rgb(17, 166, 235);
 }
 .child:nth-child(5){
-    background: rgb(0, 194, 81);
+    background: #06CC27;
 }
 .child:nth-child(1){
     /* grid-column: 1/3;
